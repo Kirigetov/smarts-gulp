@@ -1,0 +1,12 @@
+//=include lib/jquery.js
+//=include lib/jquery.fullpage.min.js
+//=include lib/bootstrap.min.js
+//=include lib/ion.rangeSlider.min.js
+//=include lib/jquery.1.12.4.min.js
+//=include lib/jquery.countdown.min.js
+//=include lib/jquery.maskedinput.min.js
+//=include lib/owl.carousel.min.js
+//=include lib/subscribe.min.js
+//=include lib/toastr.min.js
+//=include lib/easygooglemaps.min.js
+//=include common.js
